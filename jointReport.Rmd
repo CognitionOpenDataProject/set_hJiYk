@@ -209,7 +209,8 @@ codReport(Report_Type = 'joint',
           Insufficient_Information_Errors = 0,
           Decision_Errors = 0, 
           Major_Numerical_Errors = 0, 
-          Minor_Numerical_Errors = 1)
+          Minor_Numerical_Errors = 1,
+          Author_Assistance = F)
 ```
 
 This replication was overall a success. I found only one minor numerical error in the reporting of these results. 
